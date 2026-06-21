@@ -1,0 +1,2 @@
+# Cities-of-Ghosts-North-Expanded-20-NEW-endgame-quests-and-more-for-STALKER-Anomaly-ENG-RUS
+Cities of Ghosts: North Expanded is an immersion and quest expansion for Anomaly that transforms the northern Zone. It adds 20 unique quests with supernatural twists and multiple endings, plus 200 campfire stories and 250 PDA news. Built on vanilla assets, it requires DLTX, supports GAMMA 0.9.5, and includes EN/RU.
